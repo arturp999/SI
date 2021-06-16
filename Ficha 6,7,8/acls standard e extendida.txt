@@ -1,0 +1,11 @@
+slide 53 da aula 4
+
+ACL Standard 
+-> Filtra com base na origem
+-> Tem de ser colocada proximo do destino
+
+ ACL Extendida
+-> Filtra com base na origem/destino e tipo de trafego
+->Colocar proximo da origem
+
+R(config)#no ip domain-lookup
